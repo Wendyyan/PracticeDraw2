@@ -17,7 +17,7 @@ HenCoder 绘制 2 练习项目
 
 ![](images/project_practice.png)
 
-你要做的是就是，在 `/practice` 下的每一个 `PracticeXxxView.java` 文件中写代码，绘制出和页面上半部分相同的效果。例如写 `PracticeLinearGradientView.java` 以绘制出用线性渐变来绘制颜色的圆形。就像这样：
+练习做的是就是，在 `/practice` 下的每一个 `PracticeXxxView.java` 文件中写代码，绘制出和页面上半部分相同的效果。例如写 `PracticeLinearGradientView.java` 以绘制出用线性渐变来绘制颜色的圆形。就像这样：
 
 ![](images/preview_after.png)
 
